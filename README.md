@@ -16,3 +16,5 @@ Developed Cook-Buddy, an AI-powered cooking assistant that provides recipe recom
 
 ### Marble Mania ([github](https://github.com/m3di0cre3/MarbleMania), [demo](https://2ly.link/23DHq))
 Created a physical rhythm game inspired by osu!mania, with marbles on ramps simulating falling notes
+
+My personal website: [anandt.dev](https://anandt.dev/)
